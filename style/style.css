@@ -1,16 +1,9 @@
-p{
-  font-size: 19px;
-  margin-bottom: 0px;
-  margin-top: 0px;
-}
+
 .img1{
   width: 100%;
 }
 
-.search{
-  font-size: 14px;
-  display: block;
-}
+
 
 .video-grid{
   display: grid;
